@@ -1,0 +1,33 @@
+{
+  "name": "Discord status bot",
+  "version": "3.5.8",
+  "description": "Change the discord status of your botghost bot using this repl. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Discord bot",
+    "Discrd bot status",
+    "new status",
+    "Change discord bot status for free",
+    "botghost",
+    "botghost premium feature for free",
+    "simple javascript bot",
+    "Simple discord.js bot template",
+    "Botghost premium",
+    "NodeJS",
+    "Raadsel",
+    "MadeByRaadsel",
+    "Discord",
+    "Discord.js"
+  ],
+  "author": "Raadsel | Jorik",
+  "license": "GPL",
+  "dependencies": {
+    "@raadsel/smallify": "^1.0.3",
+    "discord.js": "^13.7.0",
+    "express": "^4.18.1",
+    "glob": "^8.0.3"
+  }
+}
